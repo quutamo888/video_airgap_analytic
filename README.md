@@ -2,7 +2,7 @@
 
 โปรแกรม Desktop สำหรับตรวจจับและตัดช่วง Dead Air (ช่วงเงียบ/ไม่มีเสียงพูด) ในไฟล์วิดีโอ MP4 โดยอัตโนมัติด้วย AI Silero VAD (ONNX) และ PySide6 พร้อมพรีวิวและ Timeline แสดงผลแบบ Interactive
 
-![Video Dead Air Cutter Screenshot](SS/1.png)
+![Video Dead Air Cutter Screenshot](ss/1.png)
 
 ---
 
